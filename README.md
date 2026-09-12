@@ -250,3 +250,6 @@ This repository serves as the official landing page for Crossy Road. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Crossy Road today!**
+
+---
+**Last updated:** 2026-09-12 15:25:03 UTC
