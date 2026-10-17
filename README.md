@@ -252,4 +252,4 @@ This repository serves as the official landing page for Crossy Road. The softwar
 **Get the most recent version of Crossy Road today!**
 
 ---
-**Last updated:** 2026-10-17 19:13:10 UTC
+**Last updated:** 2026-10-17 22:08:21 UTC
